@@ -1,0 +1,18 @@
+git clone https://github.com/antonellamercado/apuntesutn.git -> (baja a nuestro workspace el proyecton de "andres")
+
+git checkout -b create_frontend -> (descripcion_modificacion)
+
+git branch -> (crear la rama)
+
+¡¡¡¡¡REALIZAR UN CAMBIO!!!!!!!
+
+git status -> (muestra lo q fue modificado) 
+
+git commit -m "Se realizo X cambio" 
+
+git push origin master -> (pushear a mi repositorio de github) 
+
+PRESIONAR (EN GITHUB) COMPARE & PULL REQUEST -> CHECKEA LA UNION DEL ORIGINAL CON EL CAMBIO
+
+ESCRIBIR EL CMABIO HECHO, PRESIONAR CREATE PULL REQUEST, ESPERAR Q APRUEBEN NUESTRO CAMBIO :P
+
